@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ThomasOXY!</h1>
-<h3 align="center">💻 Developer & DJ with a passion for creating private projects 💻</h3>
+<h3 align="center">💻 Developer & DJ 💻</h3>
 
 <p align="center">
   <a href="https://github.com/ThomasOXY">
